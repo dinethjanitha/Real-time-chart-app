@@ -1,0 +1,115 @@
+/* *{margin: 0; padding: 0;} */
+
+.chat-app{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(18, 121, 218, 0.884);
+    
+}
+
+.submit-button{
+    background-color: rgb(49, 235, 120);
+}
+
+.chatbox{
+    width: 1000px;
+    height:600px;
+    background-color:rgba(18, 121, 218, 0.884)
+}
+
+.chat-room-details{
+    padding-left: 0;
+    background-color: rgba(88, 165, 236, 0.884);
+    height: 400px;
+}
+.send-button{
+    border-radius: 0;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.input-group{
+    /* padding: 30px; */
+}
+
+.message-box{
+    padding: 0;
+    margin: 0;
+    /* background-color: turquoise; */
+}
+
+.chat-box{
+    background-color: aliceblue;
+    height: 400px;
+}
+
+.chat-box{
+
+}
+
+.row-head{
+    height: 100px;
+}
+
+.send-message{
+    height: 100px;
+}
+
+.text-header{
+    font-size: 12px;
+    opacity: 0.7;
+    color: white;
+}
+
+.text-meessage{
+    display: flex;
+    width: fit-content;
+    flex-direction: column;
+    justify-content: center;
+    border-start-start-radius: 10px;
+    border-start-end-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.text-meessage p{
+    margin: 0;
+}
+
+.room-name{
+    padding: 5px;
+    margin-left: 10px;
+    opacity: 0.8;
+    background-color: aquamarine;
+}
+
+.room-memebers ul li{
+    list-style: none;
+}
+
+
+.chat-box{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.your-text-meessage{
+    display: flex;
+    width: auto;
+    flex-direction: column;
+    align-self: flex-end;
+    max-width: 300px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.send-message {
+    background-color: aquamarine;
+}
+/* 
+.spspsps{
+    padding: 0;
+    margin: 0;
+} */
